@@ -1,0 +1,10 @@
+category,benchmark_model,test_statistic,odds_ratio,p_value,neg_log10_pval
+Directional Overrepresentation (Hypergeometric),Degree Centrality (k_v),Fold Enrichment = 1.086,1.1340384021453376,0.21314511751720544,0.6713246112205634
+Directional Overrepresentation (Hypergeometric),Traffic Gain (Delta_C_B-),Fold Enrichment = 1.043,1.0675960623693994,0.35720394138284206,0.447083757758363
+Directional Overrepresentation (Hypergeometric),Absolute Redistribution (|Delta_C_B|),Fold Enrichment = 1.000,1.0036043878603222,0.5267784006847464,0.2783720405738394
+Directional Overrepresentation (Hypergeometric),Traffic Loss (Delta_C_B+),Fold Enrichment = 0.927,0.9020761402186205,0.7874359202017241,0.10378477802739519
+Directional Overrepresentation (Hypergeometric),Differential Expression (|log2FC|),Fold Enrichment = 0.927,0.9020761402186205,0.7874359202017241,0.10378477802739519
+Multivariable Logistic Regression (Adjusted),|Delta_C_B| (Standardized),Wald z = -0.812,0.9705836132366262,0.4168017533610985,0.3800704627568808
+Multivariable Logistic Regression (Adjusted),|log2FC| (Standardized),Wald z = 0.235,1.0074032096753147,0.8143571099810024,0.08918510753811869
+Multivariable Logistic Regression (Adjusted),Degree (Standardized),Wald z = 1.770,1.0597581668120704,0.07675463678581017,1.114895379112474
+Matched-Control Empirical Null,"Matched Controls (k_v, mean_expr, var_expr)",Relative Risk = 1.088,1.0879848628192996,0.24752475247524752,0.6063813651106049
