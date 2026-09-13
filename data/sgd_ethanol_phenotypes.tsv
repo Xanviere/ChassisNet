@@ -1,0 +1,1632 @@
+gene_orf	ethanol_phenotype	phenotype_details
+Q0250	1	respiratory growth: absent
+YAL001C	1	competitive fitness: decreased
+YAL002W	1	respiratory growth: absent
+YAL004W	1	competitive fitness: decreased
+YAL005C	1	competitive fitness: decreased
+YAL009W	1	chemical compound accumulation: increased
+YAL010C	1	resistance to chemicals: decreased
+YAL011W	1	competitive fitness: decreased
+YAL012W	1	chemical compound accumulation: increased
+YAL013W	1	competitive fitness: decreased
+YAL014C	1	competitive fitness: increased
+YAL015C	1	competitive fitness: decreased
+YAL016W	1	resistance to chemicals: decreased
+YAL020C	1	competitive fitness: decreased
+YAL021C	1	competitive fitness: decreased
+YAL022C	1	competitive fitness: increased
+YAL023C	1	competitive fitness: decreased
+YAL024C	1	resistance to chemicals: decreased
+YAL026C	1	competitive fitness: decreased
+YAL027W	1	resistance to chemicals: decreased
+YAL035W	1	resistance to chemicals: decreased
+YAL039C	1	competitive fitness: decreased
+YAL040C	1	competitive fitness: increased
+YAL042C-A	1	competitive fitness: increased
+YAL042W	1	competitive fitness: increased
+YAL044C	1	competitive fitness: decreased
+YAL046C	1	competitive fitness: decreased
+YAL047C	1	resistance to chemicals: decreased
+YAL048C	1	competitive fitness: decreased
+YAL049C	1	resistance to chemicals: decreased
+YAL053W	1	competitive fitness: decreased
+YAL054C	1	competitive fitness: decreased
+YAL055W	1	competitive fitness: decreased
+YAL056W	1	competitive fitness: increased
+YAL059W	1	competitive fitness: decreased
+YAL060W	1	competitive fitness: increased
+YAL062W	1	vegetative growth: decreased rate
+YAL064C-A	1	competitive fitness: increased
+YAR002C-A	1	competitive fitness: increased
+YAR002W	1	competitive fitness: decreased
+YAR003W	1	competitive fitness: decreased
+YAR014C	1	competitive fitness: decreased
+YAR015W	1	competitive fitness: decreased
+YAR029W	1	competitive fitness: decreased
+YAR050W	1	resistance to chemicals: decreased
+YBL002W	1	competitive fitness: increased
+YBL005W	1	resistance to chemicals: increased
+YBL006C	1	competitive fitness: decreased
+YBL007C	1	competitive fitness: decreased
+YBL008W	1	competitive fitness: decreased
+YBL011W	1	competitive fitness: decreased
+YBL019W	1	competitive fitness: increased
+YBL021C	1	respiratory growth: decreased rate
+YBL022C	1	competitive fitness: increased
+YBL024W	1	competitive fitness: increased
+YBL025W	1	resistance to chemicals: decreased
+YBL027W	1	competitive fitness: decreased
+YBL028C	1	competitive fitness: increased
+YBL029W	1	competitive fitness: decreased
+YBL030C	1	utilization of carbon source: decreased
+YBL031W	1	resistance to chemicals: decreased
+YBL032W	1	competitive fitness: increased
+YBL033C	1	respiratory growth: decreased rate
+YBL036C	1	chemical compound accumulation: increased
+YBL037W	1	competitive fitness: increased
+YBL038W	1	competitive fitness: decreased
+YBL039C	1	competitive fitness: decreased
+YBL042C	1	competitive fitness: decreased
+YBL043W	1	competitive fitness: increased
+YBL045C	1	competitive fitness: decreased
+YBL046W	1	resistance to chemicals: decreased
+YBL047C	1	competitive fitness: increased
+YBL048W	1	competitive fitness: increased
+YBL049W	1	competitive fitness: increased
+YBL051C	1	competitive fitness: increased
+YBL053W	1	resistance to chemicals: decreased
+YBL054W	1	competitive fitness: increased
+YBL058W	1	competitive fitness: decreased
+YBL059W	1	competitive fitness: increased
+YBL060W	1	competitive fitness: increased
+YBL061C	1	competitive fitness: decreased
+YBL062W	1	resistance to chemicals: decreased
+YBL063W	1	competitive fitness: increased
+YBL064C	1	competitive fitness: increased
+YBL066C	1	chemical compound accumulation: decreased
+YBL067C	1	resistance to chemicals: decreased
+YBL068W	1	competitive fitness: decreased
+YBL069W	1	competitive fitness: increased
+YBL070C	1	competitive fitness: increased
+YBL071C	1	competitive fitness: decreased
+YBL072C	1	competitive fitness: decreased
+YBL075C	1	competitive fitness: increased
+YBL078C	1	respiratory growth: decreased rate
+YBL079W	1	competitive fitness: decreased
+YBL080C	1	respiratory growth: absent
+YBL081W	1	competitive fitness: increased
+YBL082C	1	competitive fitness: decreased
+YBL083C	1	competitive fitness: decreased
+YBL087C	1	competitive fitness: decreased
+YBL088C	1	competitive fitness: increased
+YBL089W	1	competitive fitness: decreased
+YBL090W	1	competitive fitness: decreased
+YBL092W	1	resistance to chemicals: increased
+YBL093C	1	respiratory growth: decreased
+YBL094C	1	competitive fitness: increased
+YBL099W	1	resistance to chemicals: decreased
+YBL100C	1	competitive fitness: decreased
+YBL103C	1	resistance to chemicals: decreased
+YBL104C	1	competitive fitness: decreased
+YBL106C	1	competitive fitness: increased
+YBR003W	1	resistance to chemicals: decreased
+YBR006W	1	competitive fitness: increased
+YBR008C	1	resistance to chemicals: decreased
+YBR009C	1	competitive fitness: decreased
+YBR010W	1	competitive fitness: decreased
+YBR013C	1	competitive fitness: increased
+YBR016W	1	competitive fitness: increased
+YBR018C	1	competitive fitness: increased
+YBR020W	1	competitive fitness: decreased
+YBR021W	1	respiratory growth: absent
+YBR025C	1	competitive fitness: decreased
+YBR026C	1	resistance to chemicals: decreased
+YBR029C	1	resistance to chemicals: decreased
+YBR031W	1	respiratory growth: increased rate
+YBR032W	1	competitive fitness: increased
+YBR033W	1	competitive fitness: increased
+YBR035C	1	competitive fitness: decreased
+YBR036C	1	resistance to chemicals: decreased
+YBR037C	1	competitive fitness: decreased
+YBR041W	1	competitive fitness: decreased
+YBR044C	1	competitive fitness: decreased
+YBR048W	1	competitive fitness: decreased
+YBR051W	1	competitive fitness: increased
+YBR054W	1	competitive fitness: increased
+YBR057C	1	competitive fitness: increased
+YBR058C	1	competitive fitness: increased
+YBR059C	1	competitive fitness: increased
+YBR062C	1	protein/peptide accumulation: decreased
+YBR065C	1	competitive fitness: decreased
+YBR068C	1	resistance to chemicals: decreased
+YBR069C	1	resistance to chemicals: decreased
+YBR071W	1	competitive fitness: increased
+YBR072W	1	resistance to chemicals: decreased
+YBR077C	1	resistance to chemicals: decreased
+YBR078W	1	resistance to chemicals: decreased
+YBR079C	1	resistance to chemicals: decreased
+YBR081C	1	chemical compound accumulation: decreased
+YBR082C	1	resistance to chemicals: decreased
+YBR083W	1	filamentous growth: absent
+YBR084C-A	1	competitive fitness: decreased
+YBR084W	1	competitive fitness: decreased
+YBR085W	1	respiratory growth: normal
+YBR095C	1	respiratory growth: decreased
+YBR097W	1	resistance to chemicals: decreased
+YBR098W	1	resistance to chemicals: decreased
+YBR099C	1	competitive fitness: decreased
+YBR101C	1	resistance to chemicals: decreased
+YBR103W	1	competitive fitness: increased
+YBR105C	1	resistance to chemicals: decreased
+YBR106W	1	chemical compound accumulation: increased
+YBR107C	1	competitive fitness: decreased
+YBR112C	1	resistance to chemicals: increased
+YBR113W	1	competitive fitness: decreased
+YBR114W	1	resistance to chemicals: decreased
+YBR115C	1	resistance to chemicals: decreased
+YBR119W	1	competitive fitness: decreased
+YBR120C	1	chemical compound accumulation: decreased
+YBR123C	1	resistance to chemicals: decreased
+YBR125C	1	competitive fitness: increased
+YBR126C	1	respiratory growth: decreased
+YBR127C	1	resistance to chemicals: decreased
+YBR128C	1	resistance to chemicals: decreased
+YBR131W	1	competitive fitness: decreased
+YBR132C	1	resistance to chemicals: decreased
+YBR133C	1	competitive fitness: decreased
+YBR134W	1	resistance to chemicals: decreased
+YBR141C	1	competitive fitness: increased
+YBR144C	1	competitive fitness: increased
+YBR145W	1	chemical compound accumulation: decreased
+YBR148W	1	competitive fitness: increased
+YBR152W	1	resistance to chemicals: decreased
+YBR159W	1	competitive fitness: increased
+YBR161W	1	competitive fitness: increased
+YBR162W-A	1	competitive fitness: increased
+YBR163W	1	competitive fitness: decreased
+YBR164C	1	competitive fitness: decreased
+YBR166C	1	resistance to chemicals: decreased
+YBR168W	1	resistance to chemicals: decreased
+YBR169C	1	competitive fitness: increased
+YBR170C	1	competitive fitness: decreased
+YBR171W	1	resistance to chemicals: decreased
+YBR172C	1	competitive fitness: increased
+YBR173C	1	competitive fitness: decreased
+YBR174C	1	competitive fitness: decreased
+YBR175W	1	resistance to chemicals: decreased
+YBR179C	1	competitive fitness: decreased
+YBR181C	1	competitive fitness: decreased
+YBR184W	1	resistance to chemicals: decreased
+YBR185C	1	competitive fitness: decreased
+YBR187W	1	respiratory growth: decreased rate
+YBR189W	1	resistance to chemicals: decreased
+YBR191W	1	competitive fitness: decreased
+YBR193C	1	resistance to chemicals: decreased
+YBR194W	1	competitive fitness: decreased
+YBR195C	1	competitive fitness: decreased
+YBR196C-A	1	resistance to chemicals: decreased
+YBR198C	1	resistance to chemicals: decreased
+YBR199W	1	competitive fitness: increased
+YBR200W	1	resistance to chemicals: decreased
+YBR207W	1	competitive fitness: increased
+YBR208C	1	competitive fitness: decreased
+YBR212W	1	competitive fitness: decreased
+YBR215W	1	competitive fitness: decreased
+YBR216C	1	competitive fitness: increased
+YBR217W	1	competitive fitness: increased
+YBR220C	1	competitive fitness: decreased
+YBR221C	1	resistance to chemicals: decreased
+YBR224W	1	competitive fitness: decreased
+YBR225W	1	competitive fitness: decreased
+YBR226C	1	competitive fitness: decreased
+YBR228W	1	competitive fitness: increased
+YBR229C	1	competitive fitness: decreased
+YBR231C	1	competitive fitness: increased
+YBR233W	1	competitive fitness: increased
+YBR238C	1	competitive fitness: increased
+YBR239C	1	resistance to chemicals: decreased
+YBR240C	1	resistance to chemicals: decreased
+YBR241C	1	resistance to chemicals: decreased
+YBR245C	1	competitive fitness: decreased
+YBR246W	1	competitive fitness: decreased
+YBR249C	1	competitive fitness: decreased
+YBR250W	1	competitive fitness: increased
+YBR251W	1	competitive fitness: decreased
+YBR255W	1	resistance to chemicals: decreased
+YBR259W	1	resistance to chemicals: decreased
+YBR260C	1	resistance to chemicals: decreased
+YBR262C	1	competitive fitness: increased
+YBR263W	1	competitive fitness: increased
+YBR264C	1	competitive fitness: increased
+YBR266C	1	competitive fitness: decreased
+YBR267W	1	respiratory growth: decreased
+YBR268W	1	resistance to chemicals: decreased
+YBR269C	1	competitive fitness: decreased
+YBR271W	1	competitive fitness: increased
+YBR273C	1	competitive fitness: increased
+YBR277C	1	competitive fitness: increased
+YBR278W	1	competitive fitness: increased
+YBR279W	1	competitive fitness: decreased
+YBR281C	1	competitive fitness: increased
+YBR282W	1	competitive fitness: decreased
+YBR283C	1	competitive fitness: decreased
+YBR284W	1	competitive fitness: decreased
+YBR286W	1	competitive fitness: decreased
+YBR288C	1	competitive fitness: decreased
+YBR289W	1	resistance to chemicals: decreased
+YBR290W	1	resistance to chemicals: decreased
+YBR291C	1	resistance to chemicals: decreased
+YBR292C	1	resistance to chemicals: decreased
+YBR293W	1	competitive fitness: increased
+YBR295W	1	competitive fitness: increased
+YBR296C	1	competitive fitness: increased
+YBR297W	1	competitive fitness: increased
+YBR298C	1	resistance to chemicals: decreased
+YBR300C	1	competitive fitness: decreased
+YCL001W	1	competitive fitness: decreased
+YCL001W-A	1	competitive fitness: decreased
+YCL005W	1	respiratory growth: decreased
+YCL005W-A	1	resistance to chemicals: decreased
+YCL007C	1	competitive fitness: decreased
+YCL008C	1	competitive fitness: decreased
+YCL009C	1	resistance to chemicals: decreased
+YCL010C	1	resistance to chemicals: decreased
+YCL011C	1	competitive fitness: decreased
+YCL014W	1	competitive fitness: increased
+YCL016C	1	competitive fitness: decreased
+YCL018W	1	chemical compound accumulation: decreased
+YCL023C	1	competitive fitness: increased
+YCL025C	1	chemical compound accumulation: decreased
+YCL027W	1	competitive fitness: increased
+YCL028W	1	competitive fitness: increased
+YCL029C	1	competitive fitness: decreased
+YCL030C	1	competitive fitness: decreased
+YCL032W	1	resistance to chemicals: decreased
+YCL033C	1	competitive fitness: increased
+YCL036W	1	competitive fitness: increased
+YCL037C	1	competitive fitness: increased
+YCL038C	1	competitive fitness: decreased
+YCL039W	1	protein/peptide accumulation: increased
+YCL044C	1	competitive fitness: decreased
+YCL046W	1	competitive fitness: increased
+YCL050C	1	competitive fitness: increased
+YCL051W	1	competitive fitness: increased
+YCL057W	1	competitive fitness: increased
+YCL058C	1	competitive fitness: decreased
+YCL061C	1	competitive fitness: increased
+YCL063W	1	competitive fitness: increased
+YCL076W	1	competitive fitness: increased
+YCR001W	1	competitive fitness: increased
+YCR002C	1	resistance to chemicals: decreased
+YCR003W	1	chemical compound accumulation: decreased
+YCR005C	1	respiratory growth: decreased
+YCR007C	1	competitive fitness: increased
+YCR008W	1	competitive fitness: increased
+YCR009C	1	competitive fitness: decreased
+YCR010C	1	resistance to chemicals: increased
+YCR015C	1	competitive fitness: increased
+YCR016W	1	competitive fitness: decreased
+YCR017C	1	competitive fitness: increased
+YCR019W	1	competitive fitness: increased
+YCR020C-A	1	respiratory growth: decreased
+YCR020W-B	1	resistance to chemicals: decreased
+YCR021C	1	resistance to chemicals: decreased
+YCR022C	1	competitive fitness: increased
+YCR023C	1	competitive fitness: increased
+YCR024C	1	resistance to chemicals: decreased
+YCR024C-A	1	competitive fitness: decreased
+YCR025C	1	competitive fitness: increased
+YCR026C	1	resistance to chemicals: decreased
+YCR027C	1	competitive fitness: increased
+YCR028C	1	resistance to chemicals: decreased
+YCR028C-A	1	resistance to chemicals: decreased
+YCR030C	1	competitive fitness: increased
+YCR031C	1	competitive fitness: decreased
+YCR032W	1	competitive fitness: increased
+YCR033W	1	competitive fitness: increased
+YCR034W	1	competitive fitness: decreased
+YCR036W	1	competitive fitness: decreased
+YCR037C	1	chemical compound accumulation: increased
+YCR043C	1	competitive fitness: increased
+YCR044C	1	resistance to chemicals: decreased
+YCR045C	1	resistance to chemicals: decreased
+YCR046C	1	resistance to chemicals: decreased
+YCR047C	1	competitive fitness: decreased
+YCR049C	1	resistance to chemicals: decreased
+YCR050C	1	competitive fitness: decreased
+YCR051W	1	resistance to chemicals: decreased
+YCR059C	1	resistance to chemicals: decreased
+YCR060W	1	competitive fitness: decreased
+YCR061W	1	resistance to chemicals: decreased
+YCR063W	1	competitive fitness: decreased
+YCR064C	1	respiratory growth: increased rate
+YCR065W	1	competitive fitness: decreased
+YCR066W	1	competitive fitness: decreased
+YCR067C	1	competitive fitness: decreased
+YCR068W	1	respiratory growth: decreased
+YCR071C	1	competitive fitness: decreased
+YCR073C	1	resistance to chemicals: decreased
+YCR073W-A	1	competitive fitness: increased
+YCR075C	1	competitive fitness: increased
+YCR077C	1	respiratory growth: decreased
+YCR079W	1	resistance to chemicals: decreased
+YCR081W	1	competitive fitness: decreased
+YCR082W	1	competitive fitness: decreased
+YCR084C	1	resistance to chemicals: decreased
+YCR085W	1	competitive fitness: increased
+YCR086W	1	competitive fitness: decreased
+YCR087C-A	1	competitive fitness: decreased
+YCR087W	1	competitive fitness: decreased
+YCR088W	1	competitive fitness: increased
+YCR092C	1	competitive fitness: decreased
+YCR094W	1	competitive fitness: decreased
+YCR095C	1	resistance to chemicals: decreased
+YCR098C	1	competitive fitness: decreased
+YDL001W	1	competitive fitness: decreased
+YDL002C	1	competitive fitness: increased
+YDL005C	1	respiratory growth: decreased
+YDL006W	1	competitive fitness: decreased
+YDL009C	1	competitive fitness: increased
+YDL010W	1	competitive fitness: increased
+YDL012C	1	competitive fitness: increased
+YDL013W	1	competitive fitness: decreased
+YDL018C	1	competitive fitness: increased
+YDL019C	1	competitive fitness: increased
+YDL020C	1	resistance to chemicals: decreased
+YDL021W	1	competitive fitness: increased
+YDL022W	1	resistance to chemicals: decreased
+YDL023C	1	competitive fitness: increased
+YDL025C	1	competitive fitness: increased
+YDL026W	1	competitive fitness: increased
+YDL027C	1	competitive fitness: increased
+YDL032W	1	competitive fitness: decreased
+YDL033C	1	resistance to chemicals: decreased
+YDL034W	1	competitive fitness: increased
+YDL035C	1	growth in exponential phase: decreased rate
+YDL037C	1	competitive fitness: increased
+YDL039C	1	resistance to chemicals: decreased
+YDL040C	1	competitive fitness: decreased
+YDL041W	1	competitive fitness: decreased
+YDL042C	1	protein activity: increased
+YDL043C	1	resistance to chemicals: decreased
+YDL044C	1	competitive fitness: decreased
+YDL047W	1	utilization of carbon source: decreased
+YDL048C	1	competitive fitness: decreased
+YDL050C	1	competitive fitness: increased
+YDL051W	1	competitive fitness: increased
+YDL052C	1	resistance to chemicals: decreased
+YDL053C	1	competitive fitness: increased
+YDL054C	1	competitive fitness: increased
+YDL056W	1	resistance to chemicals: decreased
+YDL059C	1	competitive fitness: increased
+YDL062W	1	competitive fitness: decreased
+YDL063C	1	competitive fitness: decreased
+YDL065C	1	competitive fitness: decreased
+YDL066W	1	competitive fitness: decreased
+YDL067C	1	resistance to chemicals: decreased
+YDL068W	1	competitive fitness: decreased
+YDL069C	1	competitive fitness: decreased
+YDL070W	1	competitive fitness: increased
+YDL071C	1	competitive fitness: increased
+YDL073W	1	competitive fitness: decreased
+YDL074C	1	competitive fitness: decreased
+YDL075W	1	competitive fitness: decreased
+YDL076C	1	competitive fitness: decreased
+YDL077C	1	resistance to chemicals: decreased
+YDL079C	1	competitive fitness: increased
+YDL080C	1	competitive fitness: increased
+YDL081C	1	competitive fitness: decreased
+YDL082W	1	competitive fitness: decreased
+YDL083C	1	competitive fitness: decreased
+YDL085W	1	competitive fitness: increased
+YDL088C	1	respiratory growth: absent
+YDL089W	1	competitive fitness: increased
+YDL090C	1	competitive fitness: decreased
+YDL091C	1	competitive fitness: increased
+YDL094C	1	competitive fitness: increased
+YDL096C	1	resistance to chemicals: decreased
+YDL099W	1	competitive fitness: decreased
+YDL100C	1	competitive fitness: increased
+YDL101C	1	competitive fitness: decreased
+YDL104C	1	competitive fitness: decreased
+YDL106C	1	resistance to chemicals: decreased
+YDL107W	1	competitive fitness: decreased
+YDL112W	1	competitive fitness: increased
+YDL114W	1	competitive fitness: increased
+YDL115C	1	competitive fitness: decreased
+YDL116W	1	resistance to chemicals: decreased
+YDL117W	1	competitive fitness: decreased
+YDL118W	1	competitive fitness: decreased
+YDL119C	1	resistance to chemicals: decreased
+YDL120W	1	respiratory growth: decreased
+YDL121C	1	competitive fitness: increased
+YDL122W	1	competitive fitness: increased
+YDL130W	1	competitive fitness: decreased
+YDL131W	1	competitive fitness: increased
+YDL133C-A	1	competitive fitness: increased
+YDL133W	1	resistance to chemicals: decreased
+YDL135C	1	resistance to chemicals: decreased
+YDL136W	1	competitive fitness: decreased
+YDL137W	1	competitive fitness: decreased
+YDL142C	1	respiratory growth: absent
+YDL146W	1	competitive fitness: increased
+YDL151C	1	resistance to chemicals: decreased
+YDL155W	1	competitive fitness: increased
+YDL156W	1	competitive fitness: increased
+YDL157C	1	competitive fitness: decreased
+YDL160C	1	competitive fitness: decreased
+YDL161W	1	competitive fitness: increased
+YDL162C	1	competitive fitness: decreased
+YDL167C	1	competitive fitness: increased
+YDL168W	1	competitive fitness: increased
+YDL170W	1	competitive fitness: increased
+YDL171C	1	competitive fitness: increased
+YDL172C	1	competitive fitness: decreased
+YDL173W	1	resistance to chemicals: decreased
+YDL174C	1	competitive fitness: increased
+YDL176W	1	respiratory growth: increased rate
+YDL177C	1	competitive fitness: increased
+YDL179W	1	competitive fitness: increased
+YDL185W	1	resistance to chemicals: decreased
+YDL187C	1	competitive fitness: increased
+YDL189W	1	competitive fitness: increased
+YDL191W	1	competitive fitness: decreased
+YDL192W	1	resistance to chemicals: decreased
+YDL194W	1	competitive fitness: decreased
+YDL198C	1	resistance to chemicals: decreased
+YDL202W	1	resistance to chemicals: decreased
+YDL203C	1	competitive fitness: decreased
+YDL204W	1	resistance to chemicals: decreased
+YDL209C	1	resistance to chemicals: decreased
+YDL210W	1	protein/peptide accumulation: decreased
+YDL213C	1	competitive fitness: decreased
+YDL225W	1	competitive fitness: decreased
+YDL226C	1	competitive fitness: decreased
+YDL232W	1	resistance to chemicals: decreased
+YDL236W	1	resistance to chemicals: decreased
+YDR004W	1	resistance to chemicals: decreased
+YDR005C	1	resistance to chemicals: decreased
+YDR006C	1	competitive fitness: decreased
+YDR007W	1	competitive fitness: decreased
+YDR008C	1	competitive fitness: decreased
+YDR010C	1	resistance to chemicals: decreased
+YDR011W	1	resistance to chemicals: decreased
+YDR014W	1	competitive fitness: decreased
+YDR017C	1	chemical compound accumulation: delayed
+YDR020C	1	competitive fitness: decreased
+YDR024W	1	competitive fitness: decreased
+YDR025W	1	respiratory growth: normal
+YDR027C	1	competitive fitness: decreased
+YDR028C	1	resistance to chemicals: decreased
+YDR033W	1	chemical compound accumulation: delayed
+YDR035W	1	resistance to chemicals: decreased
+YDR043C	1	resistance to chemicals: decreased
+YDR046C	1	resistance to chemicals: decreased
+YDR048C	1	competitive fitness: decreased
+YDR049W	1	chemical compound accumulation: delayed
+YDR057W	1	chemical compound accumulation: delayed
+YDR058C	1	resistance to chemicals: decreased
+YDR063W	1	competitive fitness: increased
+YDR065W	1	resistance to chemicals: decreased
+YDR067C	1	resistance to chemicals: decreased
+YDR069C	1	competitive fitness: decreased
+YDR070C	1	resistance to chemicals: decreased
+YDR071C	1	competitive fitness: increased
+YDR073W	1	competitive fitness: increased
+YDR074W	1	resistance to chemicals: decreased
+YDR075W	1	resistance to chemicals: decreased
+YDR076W	1	resistance to chemicals: decreased
+YDR077W	1	competitive fitness: decreased
+YDR079C-A	1	resistance to chemicals: decreased
+YDR079W	1	resistance to chemicals: decreased
+YDR080W	1	competitive fitness: decreased
+YDR081C	1	vegetative growth: normal
+YDR083W	1	competitive fitness: decreased
+YDR085C	1	competitive fitness: increased
+YDR093W	1	competitive fitness: increased
+YDR096W	1	competitive fitness: increased
+YDR098C	1	competitive fitness: decreased
+YDR101C	1	competitive fitness: decreased
+YDR108W	1	competitive fitness: decreased
+YDR114C	1	resistance to chemicals: decreased
+YDR115W	1	resistance to chemicals: decreased
+YDR116C	1	resistance to chemicals: decreased
+YDR117C	1	resistance to chemicals: decreased
+YDR120C	1	competitive fitness: decreased
+YDR121W	1	resistance to chemicals: decreased
+YDR123C	1	chemical compound accumulation: decreased
+YDR125C	1	competitive fitness: increased
+YDR126W	1	competitive fitness: decreased
+YDR127W	1	resistance to chemicals: decreased
+YDR128W	1	resistance to chemicals: decreased
+YDR129C	1	competitive fitness: decreased
+YDR130C	1	competitive fitness: increased
+YDR131C	1	competitive fitness: increased
+YDR133C	1	competitive fitness: increased
+YDR135C	1	competitive fitness: increased
+YDR136C	1	competitive fitness: decreased
+YDR138W	1	resistance to chemicals: decreased
+YDR140W	1	respiratory growth: decreased
+YDR143C	1	competitive fitness: increased
+YDR144C	1	competitive fitness: decreased
+YDR146C	1	competitive fitness: decreased
+YDR147W	1	competitive fitness: increased
+YDR148C	1	competitive fitness: decreased
+YDR149C	1	competitive fitness: decreased
+YDR150W	1	competitive fitness: decreased
+YDR151C	1	competitive fitness: increased
+YDR154C	1	competitive fitness: increased
+YDR155C	1	competitive fitness: increased
+YDR156W	1	competitive fitness: increased
+YDR157W	1	competitive fitness: increased
+YDR159W	1	competitive fitness: decreased
+YDR161W	1	competitive fitness: decreased
+YDR162C	1	competitive fitness: decreased
+YDR163W	1	competitive fitness: decreased
+YDR173C	1	competitive fitness: decreased
+YDR174W	1	competitive fitness: decreased
+YDR175C	1	competitive fitness: decreased
+YDR176W	1	resistance to chemicals: decreased
+YDR178W	1	competitive fitness: decreased
+YDR186C	1	competitive fitness: decreased
+YDR191W	1	competitive fitness: increased
+YDR192C	1	resistance to chemicals: decreased
+YDR194C	1	competitive fitness: decreased
+YDR195W	1	competitive fitness: decreased
+YDR197W	1	competitive fitness: decreased
+YDR198C	1	competitive fitness: increased
+YDR202C	1	competitive fitness: decreased
+YDR203W	1	competitive fitness: decreased
+YDR204W	1	competitive fitness: decreased
+YDR205W	1	competitive fitness: increased
+YDR207C	1	resistance to chemicals: decreased
+YDR209C	1	competitive fitness: increased
+YDR214W	1	respiratory growth: absent
+YDR215C	1	competitive fitness: increased
+YDR216W	1	competitive fitness: increased
+YDR219C	1	competitive fitness: decreased
+YDR225W	1	competitive fitness: decreased
+YDR226W	1	resistance to chemicals: decreased
+YDR230W	1	competitive fitness: decreased
+YDR231C	1	competitive fitness: decreased
+YDR233C	1	competitive fitness: increased
+YDR237W	1	competitive fitness: decreased
+YDR239C	1	competitive fitness: increased
+YDR240C	1	resistance to chemicals: decreased
+YDR241W	1	competitive fitness: decreased
+YDR244W	1	respiratory growth: absent
+YDR245W	1	resistance to chemicals: decreased
+YDR247W	1	competitive fitness: increased
+YDR248C	1	competitive fitness: increased
+YDR252W	1	competitive fitness: increased
+YDR253C	1	competitive fitness: increased
+YDR254W	1	competitive fitness: decreased
+YDR255C	1	competitive fitness: decreased
+YDR256C	1	resistance to chemicals: decreased
+YDR257C	1	competitive fitness: decreased
+YDR259C	1	competitive fitness: increased
+YDR260C	1	competitive fitness: increased
+YDR261C	1	competitive fitness: increased
+YDR264C	1	resistance to chemicals: decreased
+YDR265W	1	competitive fitness: increased
+YDR266C	1	competitive fitness: decreased
+YDR268W	1	resistance to chemicals: decreased
+YDR269C	1	competitive fitness: decreased
+YDR270W	1	respiratory growth: decreased rate
+YDR271C	1	competitive fitness: decreased
+YDR274C	1	resistance to chemicals: decreased
+YDR275W	1	competitive fitness: increased
+YDR276C	1	competitive fitness: decreased
+YDR277C	1	competitive fitness: decreased
+YDR278C	1	competitive fitness: increased
+YDR283C	1	competitive fitness: decreased
+YDR284C	1	competitive fitness: increased
+YDR285W	1	competitive fitness: increased
+YDR289C	1	resistance to chemicals: decreased
+YDR290W	1	competitive fitness: decreased
+YDR291W	1	competitive fitness: increased
+YDR293C	1	competitive fitness: decreased
+YDR295C	1	competitive fitness: decreased
+YDR296W	1	resistance to chemicals: decreased
+YDR297W	1	competitive fitness: increased
+YDR298C	1	resistance to chemicals: decreased
+YDR300C	1	resistance to chemicals: decreased
+YDR309C	1	competitive fitness: increased
+YDR315C	1	competitive fitness: increased
+YDR316W	1	competitive fitness: decreased
+YDR317W	1	resistance to chemicals: decreased
+YDR319C	1	competitive fitness: increased
+YDR320C	1	competitive fitness: decreased
+YDR322W	1	resistance to chemicals: decreased
+YDR323C	1	competitive fitness: decreased
+YDR329C	1	respiratory growth: decreased
+YDR332W	1	resistance to chemicals: decreased
+YDR333C	1	competitive fitness: decreased
+YDR334W	1	competitive fitness: decreased
+YDR335W	1	resistance to chemicals: decreased
+YDR336W	1	resistance to chemicals: decreased
+YDR337W	1	resistance to chemicals: decreased
+YDR339C	1	resistance to chemicals: decreased
+YDR347W	1	competitive fitness: decreased
+YDR349C	1	respiratory growth: decreased
+YDR350C	1	competitive fitness: decreased
+YDR354W	1	resistance to chemicals: decreased
+YDR357C	1	competitive fitness: increased
+YDR359C	1	respiratory metabolism: increased
+YDR360W	1	competitive fitness: decreased
+YDR361C	1	resistance to chemicals: increased
+YDR363W	1	competitive fitness: decreased
+YDR363W-A	1	respiratory growth: decreased
+YDR364C	1	resistance to chemicals: decreased
+YDR368W	1	respiratory growth: decreased
+YDR369C	1	competitive fitness: decreased
+YDR371W	1	competitive fitness: increased
+YDR372C	1	competitive fitness: decreased
+YDR374C	1	respiratory growth: decreased rate
+YDR375C	1	respiratory growth: absent
+YDR377W	1	competitive fitness: decreased
+YDR378C	1	competitive fitness: decreased
+YDR380W	1	chemical compound accumulation: decreased
+YDR382W	1	competitive fitness: decreased
+YDR385W	1	competitive fitness: decreased
+YDR386W	1	competitive fitness: decreased
+YDR388W	1	competitive fitness: decreased
+YDR389W	1	competitive fitness: decreased
+YDR391C	1	competitive fitness: decreased
+YDR392W	1	resistance to chemicals: decreased
+YDR393W	1	competitive fitness: decreased
+YDR395W	1	competitive fitness: increased
+YDR402C	1	competitive fitness: increased
+YDR403W	1	respiratory growth: decreased
+YDR405W	1	resistance to chemicals: decreased
+YDR409W	1	competitive fitness: increased
+YDR411C	1	competitive fitness: increased
+YDR414C	1	competitive fitness: increased
+YDR417C	1	resistance to chemicals: decreased
+YDR418W	1	competitive fitness: decreased
+YDR419W	1	competitive fitness: increased
+YDR420W	1	competitive fitness: increased
+YDR424C	1	competitive fitness: decreased
+YDR425W	1	competitive fitness: decreased
+YDR430C	1	respiratory growth: decreased rate
+YDR432W	1	competitive fitness: decreased
+YDR433W	1	competitive fitness: decreased
+YDR435C	1	respiratory growth: absent
+YDR439W	1	resistance to chemicals: decreased
+YDR442W	1	resistance to chemicals: decreased
+YDR443C	1	respiratory growth: decreased
+YDR445C	1	competitive fitness: increased
+YDR447C	1	competitive fitness: increased
+YDR448W	1	resistance to chemicals: decreased
+YDR450W	1	chemical compound accumulation: decreased
+YDR451C	1	competitive fitness: decreased
+YDR455C	1	competitive fitness: decreased
+YDR456W	1	competitive fitness: decreased
+YDR457W	1	competitive fitness: increased
+YDR462W	1	resistance to chemicals: decreased
+YDR463W	1	resistance to chemicals: decreased
+YDR469W	1	competitive fitness: decreased
+YDR470C	1	resistance to chemicals: decreased
+YDR476C	1	competitive fitness: decreased
+YDR477W	1	resistance to chemicals: decreased
+YDR479C	1	competitive fitness: increased
+YDR480W	1	competitive fitness: increased
+YDR482C	1	competitive fitness: increased
+YDR483W	1	competitive fitness: increased
+YDR484W	1	competitive fitness: decreased
+YDR485C	1	competitive fitness: decreased
+YDR486C	1	resistance to chemicals: decreased
+YDR488C	1	competitive fitness: decreased
+YDR491C	1	competitive fitness: decreased
+YDR492W	1	competitive fitness: decreased
+YDR493W	1	respiratory growth: decreased
+YDR494W	1	competitive fitness: decreased
+YDR495C	1	competitive fitness: decreased
+YDR496C	1	competitive fitness: decreased
+YDR500C	1	competitive fitness: decreased
+YDR504C	1	competitive fitness: increased
+YDR505C	1	competitive fitness: increased
+YDR507C	1	competitive fitness: decreased
+YDR508C	1	competitive fitness: increased
+YDR509W	1	respiratory growth: decreased rate
+YDR511W	1	competitive fitness: decreased
+YDR512C	1	competitive fitness: decreased
+YDR516C	1	competitive fitness: decreased
+YDR518W	1	competitive fitness: decreased
+YDR519W	1	respiratory growth: decreased rate
+YDR520C	1	competitive fitness: increased
+YDR521W	1	competitive fitness: increased
+YDR522C	1	respiratory growth: decreased rate
+YDR523C	1	resistance to chemicals: decreased
+YDR524C	1	competitive fitness: increased
+YDR528W	1	competitive fitness: increased
+YDR529C	1	competitive fitness: decreased
+YDR530C	1	competitive fitness: increased
+YDR532C	1	resistance to chemicals: decreased
+YDR533C	1	competitive fitness: decreased
+YDR534C	1	competitive fitness: increased
+YDR540C	1	competitive fitness: decreased
+YEL003W	1	competitive fitness: decreased
+YEL007W	1	respiratory growth: decreased
+YEL008W	1	competitive fitness: decreased
+YEL009C	1	competitive fitness: decreased
+YEL012W	1	competitive fitness: decreased
+YEL013W	1	competitive fitness: decreased
+YEL015W	1	competitive fitness: decreased
+YEL020C	1	respiratory growth: decreased
+YEL024W	1	competitive fitness: decreased
+YEL027W	1	resistance to chemicals: decreased
+YEL029C	1	competitive fitness: decreased
+YEL031W	1	competitive fitness: decreased
+YEL033W	1	competitive fitness: decreased
+YEL036C	1	competitive fitness: decreased
+YEL037C	1	protein/peptide accumulation: increased
+YEL038W	1	respiratory growth: decreased
+YEL041W	1	competitive fitness: increased
+YEL042W	1	competitive fitness: increased
+YEL043W	1	competitive fitness: decreased
+YEL044W	1	competitive fitness: decreased
+YEL045C	1	resistance to chemicals: decreased
+YEL046C	1	chemical compound accumulation: decreased
+YEL048C	1	competitive fitness: decreased
+YEL049W	1	competitive fitness: decreased
+YEL050C	1	resistance to chemicals: decreased
+YEL051W	1	resistance to chemicals: decreased
+YEL053C	1	competitive fitness: decreased
+YEL054C	1	competitive fitness: decreased
+YEL059W	1	competitive fitness: increased
+YEL060C	1	resistance to chemicals: decreased
+YEL061C	1	competitive fitness: decreased
+YEL063C	1	chemical compound accumulation: increased
+YEL064C	1	resistance to chemicals: decreased
+YER002W	1	competitive fitness: decreased
+YER005W	1	competitive fitness: increased
+YER007C-A	1	competitive fitness: decreased
+YER007W	1	competitive fitness: decreased
+YER014C-A	1	competitive fitness: decreased
+YER014W	1	resistance to chemicals: decreased
+YER016W	1	respiratory growth: increased rate
+YER017C	1	competitive fitness: decreased
+YER019W	1	protein activity: decreased
+YER020W	1	competitive fitness: decreased
+YER026C	1	chemical compound accumulation: decreased
+YER027C	1	competitive fitness: decreased
+YER028C	1	respiratory growth: decreased rate
+YER030W	1	competitive fitness: decreased
+YER031C	1	competitive fitness: decreased
+YER034W	1	competitive fitness: increased
+YER036C	1	competitive fitness: decreased
+YER037W	1	resistance to chemicals: decreased
+YER038W-A	1	resistance to chemicals: decreased
+YER040W	1	competitive fitness: increased
+YER041W	1	competitive fitness: increased
+YER043C	1	chemical compound accumulation: increased
+YER044C	1	resistance to chemicals: decreased
+YER047C	1	competitive fitness: decreased
+YER050C	1	resistance to chemicals: decreased
+YER055C	1	competitive fitness: increased
+YER056C	1	competitive fitness: decreased
+YER056C-A	1	competitive fitness: decreased
+YER057C	1	competitive fitness: decreased
+YER058W	1	competitive fitness: decreased
+YER059W	1	competitive fitness: decreased
+YER060W-A	1	resistance to chemicals: decreased
+YER061C	1	respiratory growth: decreased rate
+YER062C	1	competitive fitness: increased
+YER063W	1	competitive fitness: increased
+YER065C	1	competitive fitness: decreased
+YER066C-A	1	competitive fitness: decreased
+YER067W	1	resistance to chemicals: decreased
+YER068C-A	1	chemical compound accumulation: decreased
+YER068W	1	competitive fitness: decreased
+YER070W	1	resistance to chemicals: decreased
+YER072W	1	competitive fitness: increased
+YER073W	1	chemical compound accumulation: increased
+YER074W	1	competitive fitness: decreased
+YER075C	1	competitive fitness: decreased
+YER077C	1	resistance to chemicals: decreased
+YER078C	1	competitive fitness: decreased
+YER083C	1	competitive fitness: decreased
+YER084W	1	competitive fitness: decreased
+YER086W	1	chemical compound accumulation: decreased
+YER087W	1	competitive fitness: decreased
+YER088C	1	competitive fitness: increased
+YER090W	1	resistance to chemicals: decreased
+YER092W	1	competitive fitness: decreased
+YER093C	1	resistance to chemicals: decreased
+YER093C-A	1	competitive fitness: decreased
+YER095W	1	competitive fitness: decreased
+YER098W	1	competitive fitness: decreased
+YER101C	1	competitive fitness: increased
+YER103W	1	resistance to chemicals: decreased
+YER106W	1	competitive fitness: increased
+YER107C	1	resistance to chemicals: decreased
+YER110C	1	competitive fitness: increased
+YER111C	1	resistance to chemicals: decreased
+YER114C	1	resistance to chemicals: decreased
+YER116C	1	competitive fitness: decreased
+YER117W	1	respiratory growth: absent
+YER119C-A	1	competitive fitness: increased
+YER120W	1	competitive fitness: decreased
+YER121W	1	competitive fitness: increased
+YER122C	1	resistance to chemicals: decreased
+YER123W	1	competitive fitness: decreased
+YER124C	1	competitive fitness: increased
+YER128W	1	competitive fitness: increased
+YER129W	1	competitive fitness: increased
+YER131W	1	respiratory growth: normal
+YER132C	1	competitive fitness: decreased
+YER139C	1	competitive fitness: decreased
+YER141W	1	competitive fitness: decreased
+YER143W	1	competitive fitness: increased
+YER145C	1	competitive fitness: decreased
+YER149C	1	competitive fitness: decreased
+YER150W	1	resistance to chemicals: decreased
+YER151C	1	competitive fitness: decreased
+YER153C	1	competitive fitness: decreased
+YER154W	1	competitive fitness: decreased
+YER155C	1	resistance to chemicals: decreased
+YER156C	1	competitive fitness: decreased
+YER157W	1	resistance to chemicals: decreased
+YER161C	1	competitive fitness: decreased
+YER164W	1	competitive fitness: increased
+YER167W	1	competitive fitness: increased
+YER169W	1	competitive fitness: decreased
+YER170W	1	competitive fitness: increased
+YER173W	1	competitive fitness: decreased
+YER174C	1	competitive fitness: increased
+YER177W	1	competitive fitness: decreased
+YER178W	1	competitive fitness: decreased
+YER181C	1	competitive fitness: increased
+YER184C	1	respiratory growth: decreased
+YFL001W	1	competitive fitness: decreased
+YFL004W	1	competitive fitness: decreased
+YFL013C	1	competitive fitness: decreased
+YFL013W-A	1	competitive fitness: increased
+YFL014W	1	resistance to chemicals: decreased
+YFL016C	1	competitive fitness: decreased
+YFL018C	1	resistance to chemicals: decreased
+YFL020C	1	resistance to chemicals: decreased
+YFL021W	1	chemical compound accumulation: increased
+YFL023W	1	resistance to chemicals: decreased
+YFL025C	1	respiratory growth: decreased
+YFL027C	1	resistance to chemicals: decreased
+YFL028C	1	competitive fitness: decreased
+YFL031W	1	chemical compound accumulation: decreased
+YFL032W	1	competitive fitness: decreased
+YFL033C	1	competitive fitness: increased
+YFL034C-B	1	resistance to chemicals: increased
+YFL036W	1	competitive fitness: decreased
+YFL049W	1	competitive fitness: decreased
+YFL050C	1	competitive fitness: increased
+YFL052W	1	resistance to chemicals: decreased
+YFL054C	1	competitive fitness: increased
+YFL055W	1	resistance to chemicals: decreased
+YFL056C	1	competitive fitness: decreased
+YFR001W	1	competitive fitness: decreased
+YFR008W	1	competitive fitness: decreased
+YFR009W	1	competitive fitness: decreased
+YFR010W	1	competitive fitness: increased
+YFR011C	1	competitive fitness: decreased
+YFR013W	1	competitive fitness: decreased
+YFR014C	1	resistance to chemicals: decreased
+YFR016C	1	resistance to chemicals: decreased
+YFR017C	1	resistance to chemicals: decreased
+YFR019W	1	respiratory growth: absent
+YFR021W	1	respiratory growth: decreased
+YFR029W	1	resistance to chemicals: decreased
+YFR030W	1	competitive fitness: increased
+YFR031C-A	1	competitive fitness: decreased
+YFR032C-A	1	competitive fitness: decreased
+YFR033C	1	competitive fitness: decreased
+YFR034C	1	competitive fitness: decreased
+YFR035C	1	competitive fitness: decreased
+YFR036W	1	competitive fitness: decreased
+YFR040W	1	competitive fitness: decreased
+YFR043C	1	competitive fitness: decreased
+YFR044C	1	competitive fitness: decreased
+YFR046C	1	competitive fitness: decreased
+YFR048W	1	competitive fitness: decreased
+YGL003C	1	competitive fitness: decreased
+YGL004C	1	competitive fitness: increased
+YGL005C	1	competitive fitness: decreased
+YGL007W	1	competitive fitness: increased
+YGL010W	1	competitive fitness: increased
+YGL012W	1	respiratory growth: absent
+YGL013C	1	resistance to chemicals: increased
+YGL014W	1	competitive fitness: decreased
+YGL016W	1	competitive fitness: decreased
+YGL017W	1	competitive fitness: increased
+YGL019W	1	competitive fitness: increased
+YGL020C	1	competitive fitness: decreased
+YGL021W	1	competitive fitness: increased
+YGL023C	1	resistance to chemicals: decreased
+YGL024W	1	resistance to chemicals: decreased
+YGL025C	1	competitive fitness: decreased
+YGL026C	1	resistance to chemicals: decreased
+YGL027C	1	competitive fitness: decreased
+YGL028C	1	competitive fitness: increased
+YGL030W	1	resistance to chemicals: increased
+YGL031C	1	competitive fitness: decreased
+YGL035C	1	competitive fitness: increased
+YGL037C	1	competitive fitness: increased
+YGL038C	1	resistance to chemicals: decreased
+YGL039W	1	competitive fitness: increased
+YGL042C	1	competitive fitness: decreased
+YGL043W	1	competitive fitness: decreased
+YGL045W	1	respiratory growth: decreased
+YGL049C	1	competitive fitness: increased
+YGL050W	1	competitive fitness: increased
+YGL051W	1	competitive fitness: increased
+YGL053W	1	competitive fitness: increased
+YGL054C	1	competitive fitness: decreased
+YGL057C	1	competitive fitness: decreased
+YGL058W	1	resistance to chemicals: decreased
+YGL059W	1	competitive fitness: increased
+YGL060W	1	competitive fitness: decreased
+YGL061C	1	resistance to chemicals: decreased
+YGL062W	1	competitive fitness: decreased
+YGL064C	1	respiratory growth: absent
+YGL066W	1	competitive fitness: decreased
+YGL070C	1	competitive fitness: decreased
+YGL071W	1	competitive fitness: decreased
+YGL072C	1	competitive fitness: decreased
+YGL076C	1	competitive fitness: decreased
+YGL078C	1	competitive fitness: decreased
+YGL079W	1	competitive fitness: increased
+YGL080W	1	competitive fitness: increased
+YGL081W	1	competitive fitness: increased
+YGL082W	1	competitive fitness: increased
+YGL084C	1	competitive fitness: decreased
+YGL086W	1	competitive fitness: decreased
+YGL087C	1	competitive fitness: increased
+YGL088W	1	competitive fitness: decreased
+YGL090W	1	resistance to chemicals: decreased
+YGL094C	1	competitive fitness: increased
+YGL095C	1	competitive fitness: decreased
+YGL096W	1	competitive fitness: increased
+YGL105W	1	resistance to chemicals: decreased
+YGL107C	1	resistance to chemicals: decreased
+YGL115W	1	competitive fitness: decreased
+YGL117W	1	resistance to chemicals: decreased
+YGL124C	1	competitive fitness: decreased
+YGL125W	1	competitive fitness: increased
+YGL126W	1	competitive fitness: increased
+YGL127C	1	resistance to chemicals: decreased
+YGL129C	1	resistance to chemicals: decreased
+YGL132W	1	competitive fitness: decreased
+YGL133W	1	competitive fitness: decreased
+YGL135W	1	respiratory growth: normal
+YGL136C	1	competitive fitness: decreased
+YGL139W	1	competitive fitness: increased
+YGL143C	1	resistance to chemicals: decreased
+YGL147C	1	competitive fitness: decreased
+YGL148W	1	resistance to chemicals: decreased
+YGL149W	1	competitive fitness: increased
+YGL150C	1	resistance to chemicals: decreased
+YGL151W	1	competitive fitness: increased
+YGL152C	1	competitive fitness: decreased
+YGL153W	1	competitive fitness: decreased
+YGL160W	1	competitive fitness: decreased
+YGL163C	1	competitive fitness: decreased
+YGL167C	1	competitive fitness: decreased
+YGL168W	1	competitive fitness: decreased
+YGL173C	1	resistance to chemicals: decreased
+YGL174W	1	resistance to chemicals: decreased
+YGL179C	1	respiratory growth: decreased rate
+YGL180W	1	respiratory growth: decreased
+YGL181W	1	competitive fitness: increased
+YGL194C	1	competitive fitness: increased
+YGL195W	1	resistance to chemicals: decreased
+YGL197W	1	competitive fitness: decreased
+YGL199C	1	competitive fitness: decreased
+YGL200C	1	competitive fitness: increased
+YGL202W	1	chemical compound accumulation: increased
+YGL203C	1	competitive fitness: decreased
+YGL206C	1	resistance to chemicals: decreased
+YGL211W	1	respiratory growth: decreased
+YGL212W	1	respiratory growth: decreased
+YGL213C	1	respiratory growth: decreased
+YGL214W	1	competitive fitness: decreased
+YGL215W	1	competitive fitness: decreased
+YGL218W	1	resistance to chemicals: decreased
+YGL219C	1	competitive fitness: decreased
+YGL220W	1	competitive fitness: decreased
+YGL223C	1	respiratory growth: decreased rate
+YGL226C-A	1	competitive fitness: increased
+YGL227W	1	competitive fitness: decreased
+YGL229C	1	competitive fitness: increased
+YGL232W	1	competitive fitness: decreased
+YGL235W	1	resistance to chemicals: decreased
+YGL236C	1	respiratory growth: decreased rate
+YGL237C	1	resistance to chemicals: decreased
+YGL240W	1	resistance to chemicals: decreased
+YGL242C	1	competitive fitness: increased
+YGL244W	1	competitive fitness: decreased
+YGL246C	1	respiratory growth: decreased
+YGL250W	1	competitive fitness: decreased
+YGL252C	1	competitive fitness: decreased
+YGL255W	1	chemical compound accumulation: decreased
+YGR008C	1	resistance to chemicals: decreased
+YGR012W	1	competitive fitness: decreased
+YGR014W	1	competitive fitness: increased
+YGR020C	1	resistance to chemicals: decreased
+YGR022C	1	competitive fitness: increased
+YGR023W	1	competitive fitness: increased
+YGR027C	1	resistance to chemicals: decreased
+YGR028W	1	competitive fitness: increased
+YGR031W	1	competitive fitness: increased
+YGR032W	1	resistance to chemicals: decreased
+YGR033C	1	competitive fitness: increased
+YGR034W	1	competitive fitness: decreased
+YGR035C	1	competitive fitness: increased
+YGR036C	1	resistance to chemicals: decreased
+YGR037C	1	competitive fitness: decreased
+YGR038W	1	competitive fitness: increased
+YGR041W	1	competitive fitness: increased
+YGR043C	1	competitive fitness: increased
+YGR049W	1	competitive fitness: increased
+YGR050C	1	competitive fitness: increased
+YGR052W	1	competitive fitness: increased
+YGR053C	1	competitive fitness: increased
+YGR054W	1	competitive fitness: decreased
+YGR055W	1	competitive fitness: increased
+YGR056W	1	resistance to chemicals: increased
+YGR057C	1	competitive fitness: decreased
+YGR062C	1	resistance to chemicals: decreased
+YGR063C	1	competitive fitness: decreased
+YGR064W	1	competitive fitness: decreased
+YGR066C	1	competitive fitness: increased
+YGR067C	1	competitive fitness: increased
+YGR068C	1	competitive fitness: increased
+YGR069W	1	competitive fitness: increased
+YGR070W	1	competitive fitness: increased
+YGR071C	1	resistance to chemicals: decreased
+YGR072W	1	resistance to chemicals: decreased
+YGR074W	1	resistance to chemicals: decreased
+YGR076C	1	competitive fitness: decreased
+YGR077C	1	competitive fitness: increased
+YGR078C	1	competitive fitness: decreased
+YGR079W	1	competitive fitness: increased
+YGR080W	1	competitive fitness: increased
+YGR081C	1	competitive fitness: increased
+YGR082W	1	respiratory growth: absent
+YGR084C	1	competitive fitness: decreased
+YGR085C	1	competitive fitness: decreased
+YGR086C	1	competitive fitness: decreased
+YGR087C	1	chemical compound accumulation: increased
+YGR088W	1	chemical compound accumulation: decreased
+YGR089W	1	competitive fitness: decreased
+YGR092W	1	resistance to chemicals: decreased
+YGR101W	1	respiratory growth: absent
+YGR102C	1	resistance to chemicals: decreased
+YGR104C	1	resistance to chemicals: decreased
+YGR105W	1	resistance to chemicals: decreased
+YGR110W	1	respiratory growth: absent
+YGR112W	1	respiratory growth: absent
+YGR118W	1	competitive fitness: decreased
+YGR122C-A	1	competitive fitness: increased
+YGR122W	1	resistance to chemicals: decreased
+YGR123C	1	respiratory metabolism: increased
+YGR128C	1	resistance to chemicals: decreased
+YGR130C	1	competitive fitness: decreased
+YGR132C	1	competitive fitness: increased
+YGR133W	1	competitive fitness: decreased
+YGR135W	1	resistance to chemicals: decreased
+YGR141W	1	competitive fitness: decreased
+YGR142W	1	resistance to chemicals: decreased
+YGR144W	1	competitive fitness: increased
+YGR146C	1	competitive fitness: increased
+YGR147C	1	competitive fitness: decreased
+YGR148C	1	competitive fitness: decreased
+YGR149W	1	competitive fitness: decreased
+YGR150C	1	competitive fitness: decreased
+YGR155W	1	competitive fitness: decreased
+YGR157W	1	competitive fitness: decreased
+YGR159C	1	resistance to chemicals: decreased
+YGR160W	1	competitive fitness: decreased
+YGR162W	1	competitive fitness: decreased
+YGR163W	1	competitive fitness: decreased
+YGR164W	1	competitive fitness: decreased
+YGR165W	1	resistance to chemicals: decreased
+YGR166W	1	competitive fitness: decreased
+YGR167W	1	competitive fitness: decreased
+YGR170W	1	resistance to chemicals: decreased
+YGR171C	1	resistance to chemicals: decreased
+YGR174C	1	competitive fitness: decreased
+YGR177C	1	competitive fitness: increased
+YGR178C	1	competitive fitness: increased
+YGR180C	1	resistance to chemicals: decreased
+YGR181W	1	competitive fitness: decreased
+YGR182C	1	competitive fitness: decreased
+YGR183C	1	competitive fitness: decreased
+YGR184C	1	resistance to chemicals: decreased
+YGR187C	1	competitive fitness: increased
+YGR188C	1	resistance to chemicals: decreased
+YGR192C	1	competitive fitness: decreased
+YGR193C	1	competitive fitness: decreased
+YGR196C	1	competitive fitness: decreased
+YGR200C	1	respiratory growth: absent
+YGR202C	1	resistance to chemicals: decreased
+YGR203W	1	competitive fitness: increased
+YGR205W	1	competitive fitness: increased
+YGR206W	1	resistance to chemicals: decreased
+YGR208W	1	resistance to chemicals: decreased
+YGR213C	1	competitive fitness: increased
+YGR214W	1	competitive fitness: decreased
+YGR215W	1	competitive fitness: decreased
+YGR219W	1	competitive fitness: decreased
+YGR220C	1	resistance to chemicals: decreased
+YGR222W	1	competitive fitness: decreased
+YGR223C	1	respiratory growth: decreased
+YGR225W	1	competitive fitness: increased
+YGR226C	1	competitive fitness: increased
+YGR227W	1	competitive fitness: increased
+YGR228W	1	competitive fitness: decreased
+YGR229C	1	resistance to chemicals: decreased
+YGR232W	1	competitive fitness: increased
+YGR233C	1	competitive fitness: increased
+YGR235C	1	respiratory growth: decreased
+YGR237C	1	competitive fitness: increased
+YGR240C	1	respiratory growth: decreased
+YGR241C	1	competitive fitness: increased
+YGR244C	1	competitive fitness: increased
+YGR246C	1	resistance to chemicals: decreased
+YGR248W	1	resistance to chemicals: decreased
+YGR252W	1	competitive fitness: decreased
+YGR255C	1	competitive fitness: decreased
+YGR257C	1	competitive fitness: decreased
+YGR258C	1	competitive fitness: increased
+YGR259C	1	competitive fitness: increased
+YGR260W	1	respiratory growth: absent
+YGR261C	1	competitive fitness: decreased
+YGR262C	1	resistance to chemicals: decreased
+YGR266W	1	competitive fitness: increased
+YGR270W	1	competitive fitness: decreased
+YGR275W	1	resistance to chemicals: decreased
+YGR276C	1	competitive fitness: increased
+YGR279C	1	competitive fitness: increased
+YGR282C	1	competitive fitness: decreased
+YGR283C	1	competitive fitness: decreased
+YGR284C	1	resistance to chemicals: decreased
+YGR285C	1	competitive fitness: decreased
+YGR289C	1	competitive fitness: decreased
+YGR292W	1	competitive fitness: increased
+YGR295C	1	competitive fitness: increased
+YHL005C	1	competitive fitness: decreased
+YHL007C	1	chemical compound accumulation: decreased
+YHL009C	1	resistance to chemicals: decreased
+YHL010C	1	utilization of carbon source: decreased
+YHL011C	1	resistance to chemicals: decreased
+YHL012W	1	respiratory growth: decreased
+YHL014C	1	competitive fitness: increased
+YHL016C	1	competitive fitness: increased
+YHL020C	1	competitive fitness: decreased
+YHL021C	1	resistance to chemicals: decreased
+YHL025W	1	competitive fitness: decreased
+YHL027W	1	respiratory growth: absent
+YHL029C	1	chemical compound accumulation: decreased
+YHL030W	1	competitive fitness: increased
+YHL033C	1	competitive fitness: decreased
+YHL035C	1	metal resistance: decreased
+YHL038C	1	competitive fitness: decreased
+YHL044W	1	competitive fitness: decreased
+YHR001W-A	1	competitive fitness: decreased
+YHR003C	1	competitive fitness: decreased
+YHR004C	1	chemical compound accumulation: increased
+YHR006W	1	resistance to chemicals: decreased
+YHR008C	1	resistance to chemicals: decreased
+YHR009C	1	competitive fitness: decreased
+YHR010W	1	competitive fitness: decreased
+YHR011W	1	competitive fitness: decreased
+YHR012W	1	competitive fitness: decreased
+YHR013C	1	competitive fitness: decreased
+YHR017W	1	competitive fitness: decreased
+YHR021C	1	respiratory growth: decreased
+YHR022C	1	competitive fitness: decreased
+YHR025W	1	respiratory growth: decreased rate
+YHR026W	1	resistance to chemicals: decreased
+YHR029C	1	resistance to chemicals: decreased
+YHR030C	1	resistance to chemicals: decreased
+YHR031C	1	competitive fitness: increased
+YHR034C	1	competitive fitness: decreased
+YHR037W	1	competitive fitness: decreased
+YHR038W	1	resistance to chemicals: decreased
+YHR039C	1	competitive fitness: decreased
+YHR039C-A	1	competitive fitness: decreased
+YHR041C	1	respiratory growth: decreased
+YHR043C	1	competitive fitness: increased
+YHR045W	1	competitive fitness: increased
+YHR049W	1	respiratory growth: decreased
+YHR050W	1	competitive fitness: increased
+YHR051W	1	competitive fitness: decreased
+YHR057C	1	competitive fitness: increased
+YHR059W	1	resistance to chemicals: decreased
+YHR060W	1	resistance to chemicals: decreased
+YHR064C	1	chemical compound accumulation: decreased
+YHR065C	1	resistance to chemicals: decreased
+YHR066W	1	competitive fitness: decreased
+YHR067W	1	competitive fitness: decreased
+YHR075C	1	competitive fitness: decreased
+YHR077C	1	competitive fitness: decreased
+YHR078W	1	competitive fitness: increased
+YHR079C	1	competitive fitness: decreased
+YHR081W	1	competitive fitness: decreased
+YHR082C	1	competitive fitness: decreased
+YHR084W	1	filamentous growth: absent
+YHR086W	1	competitive fitness: increased
+YHR087W	1	resistance to chemicals: decreased
+YHR091C	1	resistance to chemicals: decreased
+YHR099W	1	resistance to chemicals: decreased
+YHR100C	1	competitive fitness: decreased
+YHR103W	1	competitive fitness: increased
+YHR104W	1	competitive fitness: decreased
+YHR108W	1	competitive fitness: decreased
+YHR111W	1	respiratory growth: decreased
+YHR114W	1	competitive fitness: increased
+YHR115C	1	competitive fitness: increased
+YHR116W	1	competitive fitness: decreased
+YHR120W	1	resistance to chemicals: decreased
+YHR121W	1	competitive fitness: increased
+YHR127W	1	competitive fitness: increased
+YHR129C	1	respiratory growth: decreased
+YHR132W-A	1	competitive fitness: increased
+YHR134W	1	competitive fitness: decreased
+YHR137W	1	chemical compound accumulation: increased
+YHR139C	1	competitive fitness: increased
+YHR140W	1	competitive fitness: increased
+YHR142W	1	competitive fitness: decreased
+YHR143W	1	resistance to chemicals: decreased
+YHR147C	1	competitive fitness: decreased
+YHR151C	1	resistance to chemicals: decreased
+YHR152W	1	competitive fitness: increased
+YHR153C	1	competitive fitness: increased
+YHR154W	1	competitive fitness: increased
+YHR156C	1	competitive fitness: decreased
+YHR158C	1	competitive fitness: decreased
+YHR160C	1	competitive fitness: increased
+YHR162W	1	competitive fitness: increased
+YHR167W	1	competitive fitness: decreased
+YHR168W	1	competitive fitness: decreased
+YHR171W	1	resistance to chemicals: decreased
+YHR178W	1	competitive fitness: decreased
+YHR179W	1	respiratory growth: decreased rate
+YHR183W	1	resistance to chemicals: decreased
+YHR189W	1	competitive fitness: decreased
+YHR191C	1	resistance to chemicals: decreased
+YHR193C	1	competitive fitness: increased
+YHR194W	1	resistance to chemicals: decreased
+YHR199C	1	competitive fitness: increased
+YHR200W	1	competitive fitness: decreased
+YHR203C	1	competitive fitness: decreased
+YHR204W	1	competitive fitness: increased
+YHR205W	1	respiratory growth: absent
+YHR206W	1	resistance to chemicals: decreased
+YHR207C	1	competitive fitness: decreased
+YIL001W	1	competitive fitness: increased
+YIL002C	1	competitive fitness: decreased
+YIL005W	1	competitive fitness: increased
+YIL006W	1	competitive fitness: increased
+YIL007C	1	competitive fitness: increased
+YIL009C-A	1	competitive fitness: increased
+YIL009W	1	competitive fitness: increased
+YIL011W	1	competitive fitness: increased
+YIL014C-A	1	resistance to chemicals: decreased
+YIL015W	1	competitive fitness: increased
+YIL016W	1	competitive fitness: increased
+YIL017C	1	resistance to chemicals: decreased
+YIL018W	1	respiratory growth: normal
+YIL020C	1	competitive fitness: increased
+YIL023C	1	competitive fitness: increased
+YIL026C	1	resistance to chemicals: decreased
+YIL028W	1	competitive fitness: increased
+YIL029C	1	competitive fitness: increased
+YIL030C	1	competitive fitness: increased
+YIL032C	1	competitive fitness: increased
+YIL033C	1	resistance to chemicals: decreased
+YIL034C	1	resistance to chemicals: decreased
+YIL035C	1	resistance to chemicals: decreased
+YIL036W	1	resistance to chemicals: decreased
+YIL037C	1	competitive fitness: increased
+YIL038C	1	competitive fitness: decreased
+YIL039W	1	respiratory growth: decreased
+YIL040W	1	competitive fitness: increased
+YIL041W	1	utilization of carbon source: absent
+YIL042C	1	growth in exponential phase: decreased rate
+YIL043C	1	competitive fitness: increased
+YIL044C	1	competitive fitness: increased
+YIL045W	1	competitive fitness: increased
+YIL046W	1	resistance to chemicals: decreased
+YIL047C	1	competitive fitness: decreased
+YIL048W	1	resistance to chemicals: decreased
+YIL050W	1	competitive fitness: increased
+YIL052C	1	competitive fitness: decreased
+YIL053W	1	resistance to chemicals: decreased
+YIL055C	1	competitive fitness: increased
+YIL056W	1	competitive fitness: increased
+YIL057C	1	resistance to chemicals: decreased
+YIL058W	1	competitive fitness: increased
+YIL059C	1	competitive fitness: increased
+YIL060W	1	competitive fitness: decreased
+YIL064W	1	competitive fitness: increased
+YIL065C	1	competitive fitness: increased
+YIL066C	1	competitive fitness: increased
+YIL067C	1	competitive fitness: decreased
+YIL069C	1	competitive fitness: increased
+YIL070C	1	competitive fitness: decreased
+YIL073C	1	competitive fitness: increased
+YIL076W	1	competitive fitness: increased
+YIL077C	1	competitive fitness: increased
+YIL085C	1	resistance to chemicals: decreased
+YIL087C	1	competitive fitness: increased
+YIL090W	1	chemical compound accumulation: decreased
+YIL092W	1	competitive fitness: increased
+YIL093C	1	resistance to chemicals: decreased
+YIL094C	1	competitive fitness: increased
+YIL095W	1	competitive fitness: increased
+YIL096C	1	competitive fitness: increased
+YIL097W	1	protein/peptide accumulation: increased
+YIL098C	1	competitive fitness: decreased
+YIL101C	1	competitive fitness: increased
+YIL105C	1	competitive fitness: increased
+YIL107C	1	competitive fitness: increased
+YIL110W	1	competitive fitness: increased
+YIL111W	1	competitive fitness: increased
+YIL112W	1	competitive fitness: increased
+YIL116W	1	competitive fitness: increased
+YIL117C	1	resistance to chemicals: decreased
+YIL119C	1	competitive fitness: increased
+YIL121W	1	competitive fitness: decreased
+YIL123W	1	competitive fitness: increased
+YIL124W	1	resistance to chemicals: decreased
+YIL125W	1	competitive fitness: increased
+YIL128W	1	resistance to chemicals: decreased
+YIL130W	1	competitive fitness: increased
+YIL133C	1	competitive fitness: increased
+YIL134W	1	competitive fitness: decreased
+YIL135C	1	competitive fitness: increased
+YIL136W	1	competitive fitness: increased
+YIL137C	1	competitive fitness: increased
+YIL138C	1	competitive fitness: increased
+YIL139C	1	competitive fitness: increased
+YIL141W	1	resistance to chemicals: decreased
+YIL146C	1	vegetative growth: decreased rate
+YIL148W	1	competitive fitness: decreased
+YIL153W	1	competitive fitness: decreased
+YIL154C	1	resistance to chemicals: decreased
+YIL155C	1	competitive fitness: decreased
+YIL156W	1	competitive fitness: decreased
+YIL157C	1	competitive fitness: decreased
+YIL158W	1	competitive fitness: increased
+YIL159W	1	competitive fitness: increased
+YIL160C	1	competitive fitness: increased
+YIL161W	1	competitive fitness: increased
+YIL165C	1	competitive fitness: increased
+YIR001C	1	competitive fitness: decreased
+YIR004W	1	competitive fitness: decreased
+YIR005W	1	competitive fitness: decreased
+YIR009W	1	competitive fitness: decreased
+YIR011C	1	resistance to chemicals: decreased
+YIR021W	1	competitive fitness: decreased
+YIR023W	1	resistance to chemicals: decreased
+YIR024C	1	respiratory growth: decreased rate
+YIR026C	1	respiratory growth: decreased
+YIR033W	1	competitive fitness: decreased
+YJL003W	1	competitive fitness: decreased
+YJL004C	1	competitive fitness: decreased
+YJL005W	1	resistance to chemicals: decreased
+YJL022W	1	competitive fitness: decreased
+YJL023C	1	competitive fitness: decreased
+YJL024C	1	competitive fitness: decreased
+YJL026W	1	resistance to chemicals: decreased
+YJL029C	1	small molecule transport: decreased
+YJL030W	1	competitive fitness: decreased
+YJL036W	1	competitive fitness: decreased
+YJL042W	1	competitive fitness: increased
+YJL046W	1	resistance to chemicals: decreased
+YJL047C	1	competitive fitness: decreased
+YJL052W	1	competitive fitness: decreased
+YJL053W	1	competitive fitness: decreased
+YJL057C	1	competitive fitness: increased
+YJL061W	1	resistance to chemicals: decreased
+YJL062W	1	competitive fitness: decreased
+YJL062W-A	1	respiratory growth: absent
+YJL063C	1	resistance to chemicals: decreased
+YJL064W	1	competitive fitness: increased
+YJL065C	1	competitive fitness: increased
+YJL066C	1	competitive fitness: decreased
+YJL067W	1	competitive fitness: increased
+YJL071W	1	competitive fitness: increased
+YJL075C	1	resistance to chemicals: decreased
+YJL079C	1	resistance to chemicals: decreased
+YJL080C	1	competitive fitness: decreased
+YJL081C	1	resistance to chemicals: increased
+YJL084C	1	competitive fitness: increased
+YJL085W	1	resistance to chemicals: decreased
+YJL092W	1	competitive fitness: decreased
+YJL094C	1	competitive fitness: decreased
+YJL095W	1	respiratory growth: absent
+YJL096W	1	resistance to chemicals: decreased
+YJL101C	1	resistance to chemicals: decreased
+YJL102W	1	competitive fitness: decreased
+YJL105W	1	competitive fitness: increased
+YJL110C	1	competitive fitness: increased
+YJL111W	1	resistance to chemicals: decreased
+YJL115W	1	competitive fitness: decreased
+YJL117W	1	resistance to chemicals: decreased
+YJL120W	1	competitive fitness: decreased
+YJL121C	1	resistance to chemicals: decreased
+YJL123C	1	competitive fitness: increased
+YJL124C	1	resistance to chemicals: decreased
+YJL126W	1	respiratory growth: absent
+YJL127C	1	competitive fitness: decreased
+YJL128C	1	protein/peptide modification: increased
+YJL129C	1	resistance to chemicals: decreased
+YJL130C	1	competitive fitness: increased
+YJL131C	1	resistance to chemicals: decreased
+YJL133W	1	competitive fitness: increased
+YJL134W	1	competitive fitness: increased
+YJL135W	1	competitive fitness: increased
+YJL136C	1	resistance to chemicals: decreased
+YJL139C	1	competitive fitness: decreased
+YJL140W	1	resistance to chemicals: decreased
+YJL141C	1	competitive fitness: increased
+YJL144W	1	resistance to chemicals: decreased
+YJL146W	1	competitive fitness: increased
+YJL147C	1	competitive fitness: increased
+YJL148W	1	competitive fitness: increased
+YJL149W	1	competitive fitness: increased
+YJL150W	1	competitive fitness: increased
+YJL153C	1	competitive fitness: increased
+YJL154C	1	respiratory growth: decreased
+YJL155C	1	competitive fitness: increased
+YJL158C	1	competitive fitness: increased
+YJL159W	1	competitive fitness: increased
+YJL161W	1	competitive fitness: increased
+YJL162C	1	competitive fitness: increased
+YJL164C	1	competitive fitness: increased
+YJL165C	1	competitive fitness: increased
+YJL166W	1	competitive fitness: decreased
+YJL168C	1	competitive fitness: decreased
+YJL169W	1	competitive fitness: decreased
+YJL175W	1	resistance to chemicals: decreased
+YJL176C	1	competitive fitness: decreased
+YJL177W	1	competitive fitness: decreased
+YJL179W	1	competitive fitness: increased
+YJL180C	1	respiratory growth: absent
+YJL182C	1	competitive fitness: increased
+YJL183W	1	respiratory growth: decreased
+YJL185C	1	competitive fitness: increased
+YJL186W	1	competitive fitness: increased
+YJL187C	1	competitive fitness: increased
+YJL188C	1	resistance to chemicals: decreased
+YJL189W	1	respiratory growth: decreased
+YJL193W	1	respiratory growth: decreased rate
+YJL196C	1	resistance to chemicals: decreased
+YJL197W	1	competitive fitness: decreased
+YJL199C	1	competitive fitness: increased
+YJL200C	1	chemical compound accumulation: decreased
+YJL204C	1	competitive fitness: decreased
+YJL207C	1	competitive fitness: decreased
+YJL208C	1	competitive fitness: decreased
+YJL209W	1	competitive fitness: decreased
+YJL210W	1	competitive fitness: increased
+YJL211C	1	competitive fitness: decreased
+YJL212C	1	competitive fitness: increased
+YJL215C	1	competitive fitness: increased
+YJL216C	1	chemical compound accumulation: decreased
+YJL217W	1	competitive fitness: increased
+YJL218W	1	competitive fitness: increased
+YJR003C	1	competitive fitness: increased
+YJR009C	1	competitive fitness: increased
+YJR010W	1	competitive fitness: increased
+YJR011C	1	resistance to chemicals: decreased
+YJR018W	1	resistance to chemicals: decreased
+YJR021C	1	competitive fitness: increased
+YJR025C	1	competitive fitness: increased
+YJR026W	1	competitive fitness: increased
+YJR032W	1	competitive fitness: decreased
+YJR033C	1	competitive fitness: decreased
+YJR034W	1	resistance to chemicals: decreased
+YJR038C	1	competitive fitness: increased
+YJR040W	1	competitive fitness: decreased
+YJR043C	1	resistance to chemicals: decreased
+YJR048W	1	respiratory growth: absent
+YJR049C	1	competitive fitness: decreased
+YJR050W	1	competitive fitness: decreased
+YJR053W	1	competitive fitness: decreased
+YJR054W	1	competitive fitness: increased
+YJR055W	1	competitive fitness: decreased
+YJR056C	1	competitive fitness: increased
+YJR058C	1	competitive fitness: increased
+YJR059W	1	chemical compound accumulation: decreased
+YJR060W	1	competitive fitness: decreased
+YJR061W	1	competitive fitness: increased
+YJR063W	1	resistance to chemicals: decreased
+YJR066W	1	competitive fitness: decreased
+YJR070C	1	competitive fitness: decreased
+YJR073C	1	chemical compound accumulation: increased
+YJR074W	1	resistance to chemicals: decreased
+YJR075W	1	competitive fitness: decreased
+YJR077C	1	competitive fitness: decreased
+YJR079W	1	competitive fitness: decreased
+YJR080C	1	competitive fitness: decreased
+YJR082C	1	competitive fitness: decreased
+YJR083C	1	competitive fitness: decreased
+YJR084W	1	competitive fitness: increased
+YJR090C	1	competitive fitness: decreased
+YJR095W	1	competitive fitness: decreased
+YJR097W	1	competitive fitness: decreased
+YJR102C	1	competitive fitness: decreased
+YJR104C	1	resistance to chemicals: decreased
+YJR105W	1	competitive fitness: decreased
+YJR111C	1	respiratory growth: decreased
+YJR113C	1	competitive fitness: decreased
+YJR114W	1	resistance to chemicals: decreased
+YJR117W	1	competitive fitness: increased
+YJR118C	1	competitive fitness: decreased
+YJR120W	1	competitive fitness: decreased
+YJR121W	1	competitive fitness: decreased
+YJR122W	1	resistance to chemicals: decreased
+YJR126C	1	competitive fitness: decreased
+YJR128W	1	competitive fitness: increased
+YJR132W	1	resistance to chemicals: decreased
+YJR135C	1	competitive fitness: decreased
+YJR140C	1	competitive fitness: decreased
+YJR144W	1	competitive fitness: decreased
+YJR145C	1	competitive fitness: decreased
+YJR148W	1	chemical compound accumulation: increased
+YKL001C	1	competitive fitness: decreased
+YKL002W	1	competitive fitness: decreased
+YKL003C	1	resistance to chemicals: decreased
+YKL005C	1	resistance to chemicals: decreased
+YKL006W	1	resistance to chemicals: decreased
+YKL007W	1	competitive fitness: decreased
+YKL009W	1	resistance to chemicals: decreased
+YKL010C	1	competitive fitness: increased
+YKL011C	1	competitive fitness: decreased
+YKL015W	1	competitive fitness: increased
+YKL016C	1	resistance to chemicals: decreased
+YKL020C	1	competitive fitness: increased
+YKL023W	1	competitive fitness: increased
+YKL025C	1	competitive fitness: increased
+YKL026C	1	resistance to chemicals: decreased
+YKL027W	1	competitive fitness: decreased
+YKL032C	1	competitive fitness: increased
+YKL033W-A	1	competitive fitness: increased
+YKL034W	1	competitive fitness: increased
+YKL037W	1	competitive fitness: decreased
+YKL038W	1	competitive fitness: decreased
+YKL040C	1	competitive fitness: decreased
+YKL041W	1	competitive fitness: decreased
+YKL046C	1	competitive fitness: decreased
+YKL047W	1	competitive fitness: decreased
+YKL048C	1	competitive fitness: increased
+YKL053C-A	1	competitive fitness: decreased
+YKL053W	1	competitive fitness: increased
+YKL054C	1	competitive fitness: decreased
+YKL055C	1	resistance to chemicals: decreased
+YKL056C	1	competitive fitness: decreased
+YKL057C	1	competitive fitness: decreased
+YKL059C	1	resistance to chemicals: decreased
+YKL062W	1	resistance to chemicals: normal
+YKL064W	1	competitive fitness: increased
+YKL067W	1	respiratory growth: decreased
+YKL068W	1	resistance to chemicals: decreased
+YKL073W	1	resistance to chemicals: decreased
+YKL075C	1	competitive fitness: decreased
+YKL076C	1	competitive fitness: increased
+YKL080W	1	resistance to chemicals: decreased
+YKL085W	1	competitive fitness: decreased
+YKL087C	1	competitive fitness: decreased
+YKL093W	1	competitive fitness: decreased
+YKL094W	1	chemical compound accumulation: increased
+YKL098W	1	resistance to chemicals: decreased
+YKL100C	1	competitive fitness: increased
+YKL101W	1	competitive fitness: increased
+YKL106W	1	resistance to chemicals: decreased
+YKL109W	1	competitive fitness: decreased
+YKL110C	1	respiratory growth: decreased
+YKL113C	1	competitive fitness: decreased
+YKL114C	1	resistance to chemicals: decreased
+YKL116C	1	competitive fitness: decreased
