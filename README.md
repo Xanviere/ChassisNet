@@ -238,20 +238,18 @@ python -m unittest test_pipeline.py
 
 ### Top Prioritized Targets
 
-ChassisNet identified major stress regulators exhibiting heavy routing redistribution in *S. cerevisiae* under ethanol shock:
-
-| Rank | Standard Symbol | Systematic ORF | Degree ($k_v$) | Baseline $C_B$ | Stress $C_B$ | $|\Delta C_B|$ | SGD Ethanol Phenotype | Biological Role |
-| :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **1** | **SMT3** | `YDR510W` | 98 | 0.0073 | 0.0823 | **0.0750** | Wild-type (Essential) | SUMO homolog; master regulator of post-translational modification under ethanol proteotoxicity. |
-| **2** | **DHH1** | `YDL160C` | 1,139 | 0.2817 | 0.2323 | **0.0494** | **Sensitive (1)** | DEAD-box RNA helicase; master coordinator of P-body and stress granule assembly under ethanol shock. |
-| **3** | **RPS27A** | `YKL156W` | 272 | 0.00003 | 0.0355 | **0.0355** | Wild-type | Small ribosomal subunit & ubiquitin precursor; key checkpoint in translational stalling. |
-| **4** | **RPB10** | `YOR210W` | 142 | 0.0003 | 0.0271 | **0.0267** | Wild-type | Common subunit of RNA Polymerases I, II, and III; coordinates transcriptional reprogramming. |
-| **5** | **RPL38** | `YLR325C` | 279 | 0.0001 | 0.0252 | **0.0251** | Wild-type | 60S ribosomal subunit; involved in selective translation of stress-responsive transcripts. |
-| **6** | **SPT4** | `YGR063C` | 64 | 0.0007 | 0.0257 | **0.0250** | **Sensitive (1)** | Transcription elongation factor; required for transcriptional readthrough under acute stress. |
-| **7** | **GIS2** | `YNL255C` | 133 | 0.0043 | 0.0256 | **0.0213** | Wild-type | Translational activator and RNA-binding protein recruited to stress granules. |
-| **8** | **MPT5** | `YGL178W` | 356 | 0.0540 | 0.0744 | **0.0204** | Wild-type | PUF-family RNA-binding protein; post-transcriptional regulator of cell wall integrity. |
-| **9** | **PUF3** | `YLL013C` | 656 | 0.1666 | 0.1464 | **0.0202** | **Sensitive (1)** | Mitochondrial outer membrane mRNA regulator; modulates mitochondrial adaptation to ethanol. |
-| **10** | **RPL37A** | `YLR185W` | 246 | 0.0001 | 0.0194 | **0.0193** | Wild-type | 60S large ribosomal subunit component. |
+| Rank | Standard Symbol | Systematic ORF | Physical Degree ($k_v$) | Baseline $C_B$ | Stress $C_B$ | $\lvert \Delta C_B \rvert$ | SGD Ethanol Phenotype | Biological Role |
+| :---: | :--- | :---: | ---: | ---: | ---: | ---: | :---: | :--- |
+| **1** | **SMT3** | `YDR510W` | 98 | 0.00730 | 0.08226 | **0.07497** | Wild-type (Essential) | SUMO homolog; orchestrates massive protein post-translational modification during ethanol proteotoxicity. |
+| **2** | **DHH1** | `YDL160C` | 1,139 | 0.28168 | 0.23233 | **0.04936** | **Sensitive** (Loss-of-Function) | DEAD-box RNA helicase; master organizer of P-bodies and stress granules under acute ethanol shock. |
+| **3** | **RPS27A** | `YKL156W` | 272 | $3.45 \times 10^{-5}$ | 0.03549 | **0.03545** | Wild-type | Small ribosomal subunit & ubiquitin-fusion protein; key checkpoint in translational stalling. |
+| **4** | **RPB10** | `YOR210W` | 142 | 0.00035 | 0.02706 | **0.02672** | Wild-type | Common subunit of RNA Polymerases I, II, and III; coordinates global transcriptional reprogramming. |
+| **5** | **RPL38** | `YLR325C` | 279 | 0.00013 | 0.02520 | **0.02507** | Wild-type | 60S ribosomal subunit; involved in selective translation of stress-responsive mRNAs. |
+| **6** | **SPT4** | `YGR063C` | 64 | 0.00074 | 0.02569 | **0.02496** | **Sensitive** (Loss-of-Function) | Transcription elongation factor; essential for transcriptional readthrough under acute ethanol shock. |
+| **7** | **GIS2** | `YNL255C` | 133 | 0.00434 | 0.02560 | **0.02126** | Wild-type | Translational activator and RNA-binding protein recruited to stress granules. |
+| **8** | **MPT5** | `YGL178W` | 356 | 0.05403 | 0.07444 | **0.02041** | Wild-type | PUF-family RNA-binding protein; regulates mRNA decay of cell wall and mating pathway transcripts. |
+| **9** | **PUF3** | `YLL013C` | 656 | 0.16657 | 0.14636 | **0.02021** | **Sensitive** (Loss-of-Function) | RNA-binding protein localized to mitochondrial outer membrane; modulates mitochondrial adaptation. |
+| **10** | **RPL37A** | `YLR185W` | 246 | 0.00013 | 0.01943 | **0.01930** | Wild-type | 60S large ribosomal subunit component. |
 
 ### Multivariable Logistic Regression
 
