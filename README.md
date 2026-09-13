@@ -260,8 +260,8 @@ Fitting `statsmodels.api.Logit` on standardized continuous predictors predicting
 | Predictor | Coeff ($\beta$) | Std Err | Wald $z$ | $p$-value | Adjusted Odds Ratio (OR) | 95% Confidence Interval |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Intercept** | -0.9810 | 0.0316 | -31.01 | $< 10^{-200}$ | 0.375 | [0.352, 0.399] |
-| **$Z_{|\Delta C_B|}$ (Redistribution)** | -0.0398 | 0.0378 | -1.05 | 0.2925 | 0.961 | [0.892, 1.035] |
-| **$Z_{|\log_2\text{FC}|}$ (Expression)** | +0.0070 | 0.0314 | +0.22 | 0.8229 | 1.007 | [0.947, 1.071] |
+| **$Z_{\|\Delta C_B\|}$ (Redistribution)** | -0.0398 | 0.0378 | -1.05 | 0.2925 | 0.961 | [0.892, 1.035] |
+| **$Z_{\|\log_2\text{FC}\|}$ (Expression)** | +0.0070 | 0.0314 | +0.22 | 0.8229 | 1.007 | [0.947, 1.071] |
 | **$Z_{\text{Degree}}$ (Physical Hub)** | +0.0617 | 0.0330 | +1.87 | 0.0616 | 1.064 | [0.997, 1.135] |
 
 ### Diffusion Sensitivity Check
