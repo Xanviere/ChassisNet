@@ -1,6 +1,3 @@
-# ChassisNet
-ChassisNet: A Topology-Preserving Framework for Quantifying Interactome Routing Redistribution in Industrial Microbial Chassis
-
 # ChassisNet: A Topology-Preserving Framework for Quantifying Interactome Routing Redistribution in Industrial Microbial Chassis
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
